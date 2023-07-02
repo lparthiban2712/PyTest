@@ -1,0 +1,1 @@
+pytest -m "regression" --html=reports\regression.html
